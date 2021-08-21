@@ -24,11 +24,12 @@
   * The premise of the company is to help middle-class income earners with bad credit (not paying bills on time/owe money to financial institutions), because conventional
     and long-established financial conservatories (banks) were/are not. (Opploans is a high interest short term lending company)
 
-* Who is the company's intended customer?  Is there any information about the market size of this set of customers?
-What solution does this company offer that their competitors do not or cannot offer? (What is the unfair advantage they utilize?)
+**Who is the company's intended customer?  Is there any information about the market size of this set of customers?
+What solution does this company offer that their competitors do not or cannot offer? (What is the unfair advantage they utilize?)**
+ * The company's intended customer is borrowers with bad credit. The underserved (Do not have a bank account or do not have access to traditional finacial services) spending market in 2018 hit a revenue marker of 188.5 billion. Short-term credit spending in 2018 hit 66.1 billion (Opploans is a short term credit borrowing lender). Opploans does not charge origination fees(upfront fee charged by a lender to process a new loan application) or prepayment penalties (a fee that some lenders charge if you pay off all or part of your mortgage early).
 
-* Which technologies are they currently using, and how are they implementing them? (This may take a little bit of sleuthing–– you may want to search the company's engineering blog or use sites like Stackshare to find this information.)
-
+**Which technologies are they currently using, and how are they implementing them? (This may take a little bit of sleuthing–– you may want to search the company's engineering blog or use sites like Stackshare to find this information.)**
+ *OppLoans is a site that reformats itself on multiple device platforms which integrates with a cloud-based verification (internet confirmation) and servicing platform ( step-by-step loan serivicing needs digitalized). "The company's proprietary underwriting model uses machine-learning and artificial intelligence as well as alternative financial data beyond the consumer's credit score to provide a more complete credit picture."
 
 ## Landscape:
 
@@ -60,6 +61,8 @@ What solution does this company offer that their competitors do not or cannot of
 
 ### Sources Citation
   *https://www.opploans.com/press-release/opploans-wins-2020-fintech-breakthrough-awards-for-best-consumer-lending-platform/#:~:text=OppLoans%20was%20founded%20in%202012,served%20by%20traditional%20financial%20institutions.*
+  
+  *https://s3.amazonaws.com/cfsi-innovation-files-2018/wp-content/uploads/2020/01/31170215/2019-Market-Size-Report.pdf*
 
 
 
