@@ -35,16 +35,24 @@ What solution does this company offer that their competitors do not or cannot of
 
 ## Landscape:
 
-* What domain of the financial industry is the company in?
+**What domain of the financial industry is the company in?**
+ * Opploans is a online consumer finance platforms for personal loans 
 
-* What have been the major trends and innovations of this domain over the last 5-10 years?
+**What have been the major trends and innovations of this domain over the last 5-10 years?**
+ * According to [experian](https://www.experian.com/blogs/insights/2019/09/fintech-vs-traditional-fis-latest-trends-personal-loans/), personal loans have increased 97% over the past 4 years in 2019. The fintech origination going from 22.4% to 49.4%.
 
-* What are the other major companies in this domain?
+**What are the other major companies in this domain?**
+ *Upstart
+ *credible 
+ *lendingtree
+ *loansunder36%
+ *AmOne
 
 
 ## Results
 
 * What has been the business impact of this company so far?
+
 
 * What are some of the core metrics that companies in this domain use to measure success? How is your company performing, based on these metrics?
 
@@ -64,7 +72,7 @@ What solution does this company offer that their competitors do not or cannot of
 ### Sources Citation
   *[Opploans](https://www.opploans.com/press-release/opploans-wins-2020-fintech-breakthrough-awards-for-best-consumer-lending-platform/#:~:text=OppLoans%20was%20founded%20in%202012,served%20by%20traditional%20financial%20institutions.)*
   
-  *https://s3.amazonaws.com/cfsi-innovation-files-2018/wp-content/uploads/2020/01/31170215/2019-Market-Size-Report.pdf*
+  *[Market files](https://s3.amazonaws.com/cfsi-innovation-files-2018/wp-content/uploads/2020/01/31170215/2019-Market-Size-Report.pdf)
 
 
 
