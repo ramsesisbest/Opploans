@@ -1,4 +1,6 @@
 # Intro to Finance (homework 1)
+<img src="https://www.investopedia.com/thmb/m1e8VEQyN0gbjWpCQm04dEx9Waw=/2500x536/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/opploans-logo-00d9d2e30aed4a85b3d5bbd671e3aa70.png" alt="opploans" style="zoom:50%;" />
+
 
 ## Overview and Origin
 
