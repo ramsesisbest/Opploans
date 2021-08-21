@@ -60,7 +60,7 @@ What solution does this company offer that their competitors do not or cannot of
 * Why are these technologies appropriate for your solution?
 
 ### Sources Citation
-  *https://www.opploans.com/press-release/opploans-wins-2020-fintech-breakthrough-awards-for-best-consumer-lending-platform/#:~:text=OppLoans%20was%20founded%20in%202012,served%20by%20traditional%20financial%20institutions.*
+  *[Opploans](https://www.opploans.com/press-release/opploans-wins-2020-fintech-breakthrough-awards-for-best-consumer-lending-platform/#:~:text=OppLoans%20was%20founded%20in%202012,served%20by%20traditional%20financial%20institutions.)*
   
   *https://s3.amazonaws.com/cfsi-innovation-files-2018/wp-content/uploads/2020/01/31170215/2019-Market-Size-Report.pdf*
 
