@@ -1,4 +1,4 @@
-# Intro to Finance (homework 1)
+# Intro to Finance 
 <img src="https://www.investopedia.com/thmb/m1e8VEQyN0gbjWpCQm04dEx9Waw=/2500x536/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/opploans-logo-00d9d2e30aed4a85b3d5bbd671e3aa70.png" alt="opploans" style="zoom:50%;" />
 
 
@@ -14,7 +14,7 @@
   * Todd Schwartz (Schwartz Capital)
 
 **How did the idea for the company (or project) come about?**
-  * Jared Kaplan (CEO of Opploans since 2015), "Podcast 201 Jared Kaplan of Opploans." lendacademy.com, Peter Renton, 31 May. 2019, https://www.lendacademy.com/podcast-201-jared-kaplan-of-opploans/. "About four years in, in 2015, I was approached by the Schwartz family here in Chicago and the Schwartz family is a prominent family here, Ted Schwartz had built a business called APAC Customer Services which was a well renowned customer service business/customer call center business that he took public and sold to JP Morgan’s private equity firm in 2011. His son Todd founded OppLoans on the premise that after the Great Recession, there was large dislocation of credit for non-traditional borrowers and Todd installed this fabulous credit model and customer service model, but was looking for a CEO to scale the business. We had about 15 employees at the time and that’s when they approached me to take the reins and grow the business."
+  * Jared Kaplan (CEO of Opploans since 2015), "Podcast 201 Jared Kaplan of Opploans." lendacademy.com, Peter Renton, 31 May. 2019, [lend academy](https://www.lendacademy.com/podcast-201-jared-kaplan-of-opploans/). "About four years in, in 2015, I was approached by the Schwartz family here in Chicago and the Schwartz family is a prominent family here, Ted Schwartz had built a business called APAC Customer Services which was a well renowned customer service business/customer call center business that he took public and sold to JP Morgan’s private equity firm in 2011. His son Todd founded OppLoans on the premise that after the Great Recession, there was large dislocation of credit for non-traditional borrowers and Todd installed this fabulous credit model and customer service model, but was looking for a CEO to scale the business. We had about 15 employees at the time and that’s when they approached me to take the reins and grow the business."
 
 **How is the company funded? How much funding have they received?**
   * The company is funded by the Schwartz capital group. There is no resource that provides how much funding opploans gets. In 2020 Opploans posted 53 million dollars in net, 
@@ -65,7 +65,7 @@ What solution does this company offer that their competitors do not or cannot of
    7. Customer Acquisition Cost
    8. Average Number of Conditions Per Loan
   
-  *Opploans to date is performing well in majority of these categories except for application approval rate. after reading customer reviews that seemed to be the majority of the      issue after looking at financer.com. [Finahttps://financer.com/us/company/opploans/#read-reviews).nce](https://financer.com/us/company/opploans/#read-reviews).
+  *Opploans to date is performing well in majority of these categories except for application approval rate. after reading customer reviews that seemed to be the majority of the      issue after looking at financer.com. [Finance](https://financer.com/us/company/opploans/#read-reviews).
 
 **How is your company performing relative to competitors in the same domain?**
  *The concerning issue is that there is no update on how the company is doing. Most of the awards that I researched were from years ago. Top KPI lending searches do not have         opploans as a top competitor, but that could be because of lack of marketing. 
