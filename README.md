@@ -65,7 +65,7 @@ What solution does this company offer that their competitors do not or cannot of
    7. Customer Acquisition Cost
    8. Average Number of Conditions Per Loan
   
-  *Opploans to date is performing well in majority of these categories except for application approval rate. after reading customer reviews that seemed to be the majority of the      issue after looking at financer.com. [Finance](https://financer.com/us/company/opploans/#read-reviews).
+ * Opploans to date is performing well in majority of these categories except for application approval rate. after reading customer reviews that seemed to be the majority of the      issue after looking at financer.com. [Finance](https://financer.com/us/company/opploans/#read-reviews).
 
 **How is your company performing relative to competitors in the same domain?**
  *The concerning issue is that there is no update on how the company is doing. Most of the awards that I researched were from years ago. Top KPI lending searches do not have         opploans as a top competitor, but that could be because of lack of marketing. 
