@@ -68,17 +68,17 @@ What solution does this company offer that their competitors do not or cannot of
  * Opploans to date is performing well in majority of these categories except for application approval rate. after reading customer reviews that seemed to be the majority of the      issue after looking at financer.com. [Finance](https://financer.com/us/company/opploans/#read-reviews).
 
 **How is your company performing relative to competitors in the same domain?**
- *The concerning issue is that there is no update on how the company is doing. Most of the awards that I researched were from years ago. Top KPI lending searches do not have         opploans as a top competitor, but that could be because of lack of marketing. 
+ * The concerning issue is that there is no update on how the company is doing. Most of the awards that I researched were from years ago. Top KPI lending searches do not have         opploans as a top competitor, but that could be because of lack of marketing. 
 
 ## Recommendations
 
 **If you were to advise the company, what products or services would you suggest they offer? (This could be something that a competitor offers, or use your imagination!)**
- *A lot of Opploans competitors have lower APR's, higher loan amounts for bad credit borrowers, and extended payment options. This could be a potential benefit if the company offered this.
+ * A lot of Opploans competitors have lower APR's, higher loan amounts for bad credit borrowers, and extended payment options. This could be a potential benefit if the company offered this.
 
 **Why do you think that offering this product or service would benefit the company?**
- *higher risk payments and possible hidden fees can create problems for bad credit borrowers that need the loan, if the commpany changed that policy there would be more wiggle       room, along with extended payment options could possibly put more money in the pocket of the lender. 
+ * higher risk payments and possible hidden fees can create problems for bad credit borrowers that need the loan, if the commpany changed that policy there would be more wiggle       room, along with extended payment options could possibly put more money in the pocket of the lender. 
 **What technologies would this additional product or service utilize?**
- *The AI/ machine learning, and cloud based verification services seem to be the best option already as is. A lot of the other top companies do the same. 
+ * The AI/ machine learning, and cloud based verification services seem to be the best option already as is. A lot of the other top companies do the same. 
 
 ### Sources Citation
   [Opploans](https://www.opploans.com/press-release/opploans-wins-2020-fintech-breakthrough-awards-for-best-consumer-lending-platform/#:~:text=OppLoans%20was%20founded%20in%202012,served%20by%20traditional%20financial%20institutions.)
