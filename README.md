@@ -51,10 +51,20 @@ What solution does this company offer that their competitors do not or cannot of
 
 ## Results
 
-* What has been the business impact of this company so far?
+**What has been the business impact of this company so far?**
+ *The company has issued over 1 million loans and served 550,000 customers
 
-
-* What are some of the core metrics that companies in this domain use to measure success? How is your company performing, based on these metrics?
+**What are some of the core metrics that companies in this domain use to measure success? How is your company performing, based on these metrics?**
+ * The top 8 [metrics](https://www.lightico.com/blog/lending-kpis-most-important/) use for this industry are:
+   1. Pull Through Rate
+   2. Decision to Close Time Cycle
+   3. Abandoned Loan Rate
+   4. Average Origination Value
+   5. Application Approval Rate
+   6. Net Charge-Off Rate
+   7. Customer Acquisition Cost
+   8. Average Number of Conditions Per Loan
+  
 
 * How is your company performing relative to competitors in the same domain?
 
@@ -70,9 +80,9 @@ What solution does this company offer that their competitors do not or cannot of
 * Why are these technologies appropriate for your solution?
 
 ### Sources Citation
-  *[Opploans](https://www.opploans.com/press-release/opploans-wins-2020-fintech-breakthrough-awards-for-best-consumer-lending-platform/#:~:text=OppLoans%20was%20founded%20in%202012,served%20by%20traditional%20financial%20institutions.)*
+  [Opploans](https://www.opploans.com/press-release/opploans-wins-2020-fintech-breakthrough-awards-for-best-consumer-lending-platform/#:~:text=OppLoans%20was%20founded%20in%202012,served%20by%20traditional%20financial%20institutions.)*
   
-  *[Market files](https://s3.amazonaws.com/cfsi-innovation-files-2018/wp-content/uploads/2020/01/31170215/2019-Market-Size-Report.pdf)
+  [Market files](https://s3.amazonaws.com/cfsi-innovation-files-2018/wp-content/uploads/2020/01/31170215/2019-Market-Size-Report.pdf)
 
 
 
